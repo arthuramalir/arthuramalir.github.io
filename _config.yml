@@ -21,7 +21,6 @@
 title: Arthur AMALIR
 email: ama2409@columbia.edu
 description: A personal website
-baseurl: "/my-portfolio/" # the subpath of your site, e.g. /blog
 url: "https://arthuramalir.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  arthuramalir
