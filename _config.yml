@@ -28,9 +28,10 @@ url: "https://arthuramalir.github.io" # the base hostname & protocol for your si
 github_username:  arthuramalir
 
 # Build settings
-theme: minima
+remote_theme: poole/dark-poole
+
 plugins:
-  - jekyll-feed
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
