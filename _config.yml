@@ -27,9 +27,8 @@ baseurl: ""
 github_username:  arthuramalir
 
 # Build settings
-remote_theme: andrewhwanpark/dark-poole
-plugins:
-  - jekyll-remote-theme
+theme: jekyll-theme-midnight
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
