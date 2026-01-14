@@ -22,6 +22,7 @@ title: Arthur AMALIR
 email: ama2409@columbia.edu
 description: A personal website
 url: "https://arthuramalir.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: ""
 #twitter_username: jekyllrb
 github_username:  arthuramalir
 
