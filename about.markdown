@@ -5,20 +5,26 @@ permalink: /about/
 order: 2
 ---
 
-ESTP / Columbia. focusing on Applied Mathematics and Complex Systems.
+Dual-degree MS student at **Columbia University** and **ESTP**, focusing on computational modeling, numerical methods, and data-driven decision-making in complex systems.
 
 ### What I Do
-I study how individual interactions lead to system-wide behaviors. In the classroom, this looks like **Partial Differential Equations (PDEs)** and **Stochastic Analysis**. In practice, this means building models that can predict outcomes in uncertain environments—whether that's a volatile market, a logistics network, or a distributed computing cluster.
+I build and analyze models for systems where uncertainty, interactions, and scale matter. Recently, this has meant using **finite element methods** and **chemo-hydro-mechanical models** to understand ion transport in clay soils, and thinking about how similar tools apply to risk, AI systems, and other large complex systems.
 
-### My Toolkit
-I am interested in roles where quantitative rigor meets strategic problem solving. My technical background includes:
+I am interested in roles where mathematics, simulation, and data support concrete decisions, especially around AI, large-scale modeling, and decision-making under uncertainty.
 
-* **Mathematics:** PDEs, Uncertainty Quantification, Stochastic Calculus, Numerical Analysis.
-* **Computing:** High-Performance Computing (HPC), Pytho, Large-Scale Simulation.
-* **Modeling:** Agent-Based Modeling, Monte Carlo Simulation.
+### Technical Toolkit
+- **Mathematics and Modeling:** PDEs, numerical methods, uncertainty quantification, stochastic thinking, finite element modeling.
+- **Computing & Data:** Python (Pandas, NumPy), scientific computing, simulation workflows, basic data analysis and visualization.
+- **Research & Communication:** designing and validating models, working with domain experts, and translating technical results into actionable insights.
 
-### Why It Matters
-Data is noisy and the world is uncertain. My goal is to build robust frameworks that help decision-makers navigate that uncertainty with confidence.
+### Selected Experience
+- **Research Intern, ESTP, IRGAK National Project (France 2030, ADEME)**  
+	Developed and validated FEM-based simulations of ion transport in clay soils, identifying electrostatic interactions as a key rate-limiting factor. Worked closely with senior researchers to connect model results to sustainability-focused questions.
+
+- **Enhanced TA, Fluid Mechanics, Columbia University**  
+	Support student learning through labs and grading, reinforcing fundamentals in continuum mechanics, flows, and applied modeling.
+
+Outside of civil engineering, I am oriented toward **computational and data-centric work**: modeling, simulation, and analysis that help explain how complex systems behave and how to influence them.
 
 ---
-*Looking for a problem solver? [Connect with me on LinkedIn](#) or [Email me](mailto:ama2409@columbia.edu).*
+*Looking for a quantitatively-minded problem solver? [Email me](mailto:ama2409@columbia.edu) or connect via LinkedIn: [linkedin.com/in/arthuramalir](https://www.linkedin.com/in/arthuramalir).* 

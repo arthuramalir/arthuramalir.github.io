@@ -7,10 +7,10 @@ title: Home
 order: 1
 ---
 
-## Modeling the world through mathematics and code.
+## Modeling complex systems under uncertainty.
 
-I am a student at **Columbia University** specializing in Complex Systems.
+I am a dual-degree MS student at **Columbia University** and **ESTP**, focused on computational modeling and data-driven engineering mechanics.
 
-My work focuses on bridging the gap between theoretical mathematics and real-world application. Whether it is **quantifying uncertainty** in financial models or simulating **large-scale computing** networks, I build tools to understand how complex environments behave.
+I like working on large, complicated systems that mix data, algorithms, and human decisions. I use numerical analysis, simulation, and tools from AI and statistics to understand how systems behave under uncertainty.
 
 [Get in touch](mailto:ama2409@columbia.edu) or [view my projects](/projects/).
