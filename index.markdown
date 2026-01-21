@@ -4,6 +4,7 @@
 
 layout: home
 title: Home
+order: 1
 ---
 
 Columbia student focused on complex systems.
