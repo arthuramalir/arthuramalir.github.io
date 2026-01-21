@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Arthur AMALIR
+title:  Arthur AMALIR
 email: ama2409@columbia.edu
 description: "Columbia student focused on complex systems."
 url: "https://arthuramalir.github.io" # the base hostname & protocol for your site, e.g. http://example.com
@@ -52,3 +52,11 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+navigation:
+  - title: Home
+    url: /
+  - title: About
+    url: /about/
+  - title: Projects
+    url: /projects/
