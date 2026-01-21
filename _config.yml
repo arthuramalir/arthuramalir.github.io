@@ -26,9 +26,8 @@ baseurl: ""
 #twitter_username: jekyllrb
 github_username:  arthuramalir
 
-# Build settings
-remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
-skin: "dark"
+"# Build settings"
+remote_theme: "andrewhwanpark/dark-poole"
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
@@ -53,8 +52,12 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-navigation:
+nav:
+  - title: Blog
+    url: /archive
+
   - title: About
     url: /about/
+
   - title: Projects
     url: /projects/
