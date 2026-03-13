@@ -12,7 +12,7 @@ order: 1
 
 Hi! My name is Arthur, I am a dual-degree engineering student at **Columbia University** and **ESTP** focused on numerical methods, stochastic modeling, and data-driven computation.
 
-My passion is on building mathematical models that extract structure and insight from complex (sometimes impossible so!) data.
+My passion is on building mathematical models that extract insight from (impossibly!) complex problems.
 
 ### Current Focus
 - Monte Carlo and PDE-based simulation
