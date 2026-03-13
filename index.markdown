@@ -7,16 +7,12 @@ title: Home
 order: 1
 ---
 
-<figure style="float: left; width: 260px; margin: 0 1rem 1rem 0;">
-	<img src="/assets/images/moulin-henan.jpg" alt="Moulin a maree du Henan" style="width: 100%; height: auto; border-radius: 4px;" />
-	<figcaption style="font-size: 0.9rem; margin-top: 0.4rem;">Moulin à marée du Hénan.</figcaption>
-</figure>
 
 ## Data science, quantitative modeling, and scientific computing.
 
-I am Arthur Amalir, a dual-degree engineering student at **Columbia University** and **ESTP** focused on numerical methods, stochastic modeling, and data-driven computation.
+Hi! My name is Arthur, I am a dual-degree engineering student at **Columbia University** and **ESTP** focused on numerical methods, stochastic modeling, and data-driven computation.
 
-I am currently targeting **data science**, **quantitative research/analytics**, and **scientific computing** roles where mathematics, programming, and modeling are central.
+My passion is on building mathematical models that extract structure and insight from complex (sometimes impossible so!) data.
 
 ### Current Focus
 - Monte Carlo and PDE-based simulation
@@ -30,5 +26,10 @@ I am currently targeting **data science**, **quantitative research/analytics**, 
 - **Interests:** Quantitative decision-making, scalable simulation, and data-informed modeling
 
 [Email](mailto:ama2409@columbia.edu) | [LinkedIn](https://www.linkedin.com/in/arthuramalir) | [Projects](/projects/) | [GitHub](https://github.com/arthuramalir)
+
+<figure style="float: left; width: 260px; margin: 0 1rem 1rem 0;">
+	<img src="/assets/images/moulin-henan.jpg" alt="Moulin a maree du Henan" style="width: 100%; height: auto; border-radius: 4px;" />
+	<figcaption style="font-size: 0.9rem; margin-top: 0.4rem;">Moulin à marée du Hénan.</figcaption>
+</figure>
 
 <div style="clear: both;"></div>
