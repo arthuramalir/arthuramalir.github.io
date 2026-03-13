@@ -25,7 +25,7 @@ My passion is on building mathematical models that extract structure and insight
 - **Experience:** Research modeling in C++/FreeFEM++, large-scale MATLAB simulation, and Python ML pipelines
 - **Interests:** Quantitative decision-making, scalable simulation, and data-informed modeling
 
-[Email](mailto:ama2409@columbia.edu) | [LinkedIn](https://www.linkedin.com/in/arthuramalir) | [Projects](/projects/) | [GitHub](https://github.com/arthuramalir)
+[Email](mailto:ama2409@columbia.edu) | [LinkedIn](https://www.linkedin.com/in/arthuramalir) | [GitHub](https://github.com/arthuramalir)
 
 <figure style="float: left; width: 260px; margin: 0 1rem 1rem 0;">
 	<img src="/assets/images/moulin-henan.jpg" alt="Moulin a maree du Henan" style="width: 100%; height: auto; border-radius: 4px;" />
