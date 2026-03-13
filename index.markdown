@@ -7,10 +7,28 @@ title: Home
 order: 1
 ---
 
-## Modeling complex systems under uncertainty.
+<figure style="float: left; width: 260px; margin: 0 1rem 1rem 0;">
+	<img src="/assets/images/moulin-henan.jpg" alt="Moulin a maree du Henan" style="width: 100%; height: auto; border-radius: 4px;" />
+	<figcaption style="font-size: 0.9rem; margin-top: 0.4rem;">Moulin à marée du Hénan.</figcaption>
+</figure>
 
-Hi! My name is Arthur, I am a dual-degree MS student at **Columbia University** and **ESTP**, focused on computational modeling and data-driven engineering methods.
+## Data science, quantitative modeling, and scientific computing.
 
-I like working on large, complicated systems that mix data, algorithms, and human decisions. I use numerical analysis, simulation, and tools from AI, statistics and stochastic analysis to understand how systems behave under uncertainty.
+I am Arthur Amalir, a dual-degree engineering student at **Columbia University** and **ESTP** focused on numerical methods, stochastic modeling, and data-driven computation.
 
-[Get in touch](mailto:ama2409@columbia.edu) or [view my projects](https://github.com/arthuramalir).
+I am currently targeting **data science**, **quantitative research/analytics**, and **scientific computing** roles where mathematics, programming, and modeling are central.
+
+### Current Focus
+- Monte Carlo and PDE-based simulation
+- Predictive modeling and optimization
+- Stochastic systems and uncertainty quantification
+- Research workflows for high-dimensional experimental and simulation data
+
+### Quick Profile
+- **Education:** Columbia MS in Engineering Mechanics (Computational and Data-Driven Engineering), GPA 3.94/4.0 (Expected Dec 2026)
+- **Experience:** Research modeling in C++/FreeFEM++, large-scale MATLAB simulation, and Python ML pipelines
+- **Interests:** Quantitative decision-making, scalable simulation, and data-informed modeling
+
+[Email](mailto:ama2409@columbia.edu) | [LinkedIn](https://www.linkedin.com/in/arthuramalir) | [Projects](/projects/) | [GitHub](https://github.com/arthuramalir)
+
+<div style="clear: both;"></div>
