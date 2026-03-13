@@ -13,4 +13,4 @@ Hi! My name is Arthur, I am a dual-degree MS student at **Columbia University** 
 
 I like working on large, complicated systems that mix data, algorithms, and human decisions. I use numerical analysis, simulation, and tools from AI, statistics and stochastic analysis to understand how systems behave under uncertainty.
 
-[Get in touch](mailto:ama2409@columbia.edu) or [view my projects](https://https://github.com/arthuramalir).
+[Get in touch](mailto:ama2409@columbia.edu) or [view my projects](https://github.com/arthuramalir).
