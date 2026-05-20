@@ -8,17 +8,17 @@ order: 1
 ---
 
 
-## Data science, quantitative modeling, and scientific computing.
+## About me
 
-Hi! My name is Arthur, I am a dual-degree engineering student at **Columbia University** and **ESTP** focused on numerical methods, stochastic modeling, and data-driven computation.
+Hi! My name is Arthur, I am a MS student at **Columbia University** focused on numerical methods, stochastic modeling, and uncertainty quantification.
 
-My passion is on building mathematical models that extract insight from (impossibly!) complex problems.
+My passion is on building mathematical models of complex problems.
 
 ### Current Focus
 - Monte Carlo and PDE-based simulation
 - Predictive modeling and optimization
-- Stochastic systems and uncertainty quantification
-- Research workflows for high-dimensional experimental and simulation data
+- Stochastic systems and uncertainty quantification for
+- Methods for the studo high-dimensional problems 
 
 ### Quick Profile
 - **Education:** Columbia MS in Engineering Mechanics (Computational and Data-Driven Engineering), GPA 3.94/4.0 (Expected Dec 2026)
