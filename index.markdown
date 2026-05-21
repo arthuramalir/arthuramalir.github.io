@@ -14,10 +14,10 @@ Hello - My name is Arthur, I am a MS student at Columbia focused on numerical me
 My passion is on building solid mathematical models of complex problems.
 
 ### current focus
-- PDEs and how to model them
-- Predictive modeling and optimization
-- Stochastic systems and uncertainty quantification
-- Methods for high-dimensional problems 
+- **PDEs and how to model them**
+- predictive modeling and optimization
+- stochastic systems and uncertainty quantification
+- methods for high-dimensional problems 
 
 ### quick profile
 - **education:**
