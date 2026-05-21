@@ -14,6 +14,11 @@ My name is Arthur, I am a MS student at Columbia focused on numerical methods, s
 
 My passion is on building solid mathematical models of complex problems.
 
+<figure style="float: left; width: 260px; margin: 0 1rem 1rem 0;">
+	<img src="assets/WhatsApp Image 2026-05-21 at 15.52.57.jpeg" alt="me" style="width: 50%; height: auto; border-radius: 4px;" />
+	<figcaption style="font-size: 0.9rem; margin-top: 0.4rem;">me</figcaption>
+</figure>
+
 ### current focus
 - **PDEs and how to model them**
 - predictive modeling and optimization
