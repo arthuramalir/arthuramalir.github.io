@@ -8,18 +8,18 @@ order: 1
 ---
 
 
-## About me
+## about me
 Hello - My name is Arthur, I am a MS student at Columbia focused on numerical methods, stochastic models, and uncertainty quantification.
 
 My passion is on building solid mathematical models of complex problems.
 
-### Current Focus
+### current 
 - Monte Carlo and PDE-based simulation
 - Predictive modeling and optimization
 - Stochastic systems and uncertainty quantification
 - Methods for high-dimensional problems 
 
-### Quick Profile
+### quick profile
 - **Education:**
 	- MS @ Columbia - Engineering Mechanics (Computational and Data-Driven Methods)
 	* MS @ ESTP - Engineering (Civil & Electrical)
