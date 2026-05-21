@@ -9,7 +9,7 @@ order: 1
 
 
 ## About me
-Hi! My name is Arthur, I am a MS student at Columbia focused on numerical methods, stochastic models, and uncertainty quantification.
+Hello - My name is Arthur, I am a MS student at Columbia focused on numerical methods, stochastic models, and uncertainty quantification.
 
 My passion is on building solid mathematical models of complex problems.
 
@@ -21,8 +21,8 @@ My passion is on building solid mathematical models of complex problems.
 
 ### Quick Profile
 - **Education:**
-	- Columbia MS in Engineering Mechanics (Computational and Data-Driven Methods)
-	* ESTP MS in Engineering (Civil & Electrical)
+	- MS @ Columbia - Engineering Mechanics (Computational and Data-Driven Methods)
+	* MS @ ESTP - Engineering (Civil & Electrical)
 	+ MPSI & MP @ Lycée Janson de Sailly (Math and Physics)
 - **Experience:** Research modeling in C++/FreeFEM++, large-scale MATLAB simulation, and Python ML & UQ pipelines
 - **Interests:** 19th Century Literature & Philosophy, Napoleonic Era History, Chelsea FC
