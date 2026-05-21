@@ -9,7 +9,8 @@ order: 1
 
 
 ## about me
-Hello - My name is Arthur, I am a MS student at Columbia focused on numerical methods, stochastic models, and uncertainty quantification.
+Hello! 
+My name is Arthur, I am a MS student at Columbia focused on numerical methods, stochastic models, and uncertainty quantification.
 
 My passion is on building solid mathematical models of complex problems.
 
