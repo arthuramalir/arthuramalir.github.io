@@ -9,21 +9,23 @@ order: 1
 
 
 ## About me
+Hi! My name is Arthur, I am a MS student at Columbia focused on numerical methods, stochastic models, and uncertainty quantification.
 
-Hi! My name is Arthur, I am a MS student at **Columbia University** focused on numerical methods, stochastic modeling, and uncertainty quantification.
-
-My passion is on building mathematical models of complex problems.
+My passion is on building solid mathematical models of complex problems.
 
 ### Current Focus
 - Monte Carlo and PDE-based simulation
 - Predictive modeling and optimization
-- Stochastic systems and uncertainty quantification for
-- Methods for the studo high-dimensional problems 
+- Stochastic systems and uncertainty quantification
+- Methods for high-dimensional problems 
 
 ### Quick Profile
-- **Education:** Columbia MS in Engineering Mechanics (Computational and Data-Driven Engineering), GPA 3.94/4.0 (Expected Dec 2026)
-- **Experience:** Research modeling in C++/FreeFEM++, large-scale MATLAB simulation, and Python ML pipelines
-- **Interests:** Quantitative decision-making, scalable simulation, and data-informed modeling
+- **Education:**
+	- Columbia MS in Engineering Mechanics (Computational and Data-Driven Methods)
+	* ESTP MS in Engineering (Civil & Electrical)
+	+ MPSI & MP @ Lycée Janson de Sailly (Math and Physics)
+- **Experience:** Research modeling in C++/FreeFEM++, large-scale MATLAB simulation, and Python ML & UQ pipelines
+- **Interests:** 19th Century Literature & Philosophy, Napoleonic Era History, Chelsea FC
 
 [Email](mailto:ama2409@columbia.edu) | [LinkedIn](https://www.linkedin.com/in/arthuramalir) | [GitHub](https://github.com/arthuramalir)
 
