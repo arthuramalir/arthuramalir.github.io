@@ -13,19 +13,19 @@ Hello - My name is Arthur, I am a MS student at Columbia focused on numerical me
 
 My passion is on building solid mathematical models of complex problems.
 
-### current 
-- Monte Carlo and PDE-based simulation
+### current focus
+- PDEs and how to model them
 - Predictive modeling and optimization
 - Stochastic systems and uncertainty quantification
 - Methods for high-dimensional problems 
 
 ### quick profile
-- **Education:**
-	- MS @ Columbia - Engineering Mechanics (Computational and Data-Driven Methods)
-	* MS @ ESTP - Engineering (Civil & Electrical)
-	+ MPSI & MP @ Lycée Janson de Sailly (Math and Physics)
-- **Experience:** Research modeling in C++/FreeFEM++, large-scale MATLAB simulation, and Python ML & UQ pipelines
-- **Interests:** 19th Century Literature & Philosophy, Napoleonic Era History, Chelsea FC
+- **education:**
+	- MS @ Columbia - engineering Mechanics (computational and data-driven methods)
+	* MS @ ESTP - engineering (civil & electrical)
+	+ MPSI & MP @ lycée Janson de Sailly (pure math and physics)
+- **experience:** research modeling in C++/FreeFEM++, large-scale MATLAB simulation, and Python ML & UQ pipelines
+- **interests:** 19th Century Literature & Philosophy, Napoleonic Era History, Chelsea FC
 
 [Email](mailto:ama2409@columbia.edu) | [LinkedIn](https://www.linkedin.com/in/arthuramalir) | [GitHub](https://github.com/arthuramalir)
 
