@@ -13,7 +13,7 @@ order: 1
 <p style="margin: 0.5rem 0 1.5rem 0;">
   Hello! My name is Arthur. I am a Master's student at Columbia focused on numerical methods, stochastic models, and uncertainty quantification.
 </p>
-<p style="margin: 0.5rem 0 2.5rem 0; color: #63a1e9;">
+<p style="margin: 0.5rem 0 2.5rem 0; color: #aacaf6;">
   I am most interested in building solid mathematical models of complex phenomena.
 </p>
 
