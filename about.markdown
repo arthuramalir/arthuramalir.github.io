@@ -5,47 +5,79 @@ permalink: /about/
 order: 2
 ---
 
-I am a dual-degree engineering student with a strong quantitative background and a focus on computational modeling, statistics, and scientific computing.
+<div style="font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.9rem; line-height: 1.7; color: #e0e0e0; letter-spacing: -0.01em;">
 
-## Contact
-- Phone: (332) 910-3114
-- Email: [ama2409@columbia.edu](mailto:ama2409@columbia.edu)
-- LinkedIn: [linkedin.com/in/arthuramalir](https://www.linkedin.com/in/arthuramalir)
-- GitHub: [github.com/arthuramalir](https://github.com/arthuramalir)
+<span style="color: #6a737d;">// who am i</span>
+<p style="margin: 0.5rem 0 2.5rem 0;">
+  I am a dual-degree engineering student with a strong quantitative background focused on computational modeling, statistics, and scientific computing.
+</p>
 
-## Education
-- **Columbia University, New York City (US)**  
-	MS in Engineering Mechanics (Computational and Data-Driven Engineering), GPA: 3.94/4.0, Expected Dec 2026  
-	Relevant coursework: Numerical Analysis, Stochastic Engineering, Data Science and Machine Learning, Multiscale Computational Modeling, Predictive Modeling and Optimization, Random Signals
-- **ESTP, Cachan (FR)**  
-	BS and MS in Engineering, ECTS Grade A (Top 10%), Expected Jun 2026  
-	Relevant coursework: Numerical Analysis, Probability and Statistics, Structural Mechanics, Fluid Mechanics, Project Management, Law
-- **Lycee Janson de Sailly, Paris (FR)**  
-	MPSI and MP (equivalent GPA: 4.0/4.0), Jun 2022  
-	Preparatory classes for national competitive entrance exams, specialized in mathematics and physics
+<span style="color: #6a737d;">> contact</span>
+<ul style="list-style-type: '— '; padding-left: 1rem; margin: 0.5rem 0 2.5rem 0;">
+  <li><a href="mailto:ama2409@columbia.edu" style="text-decoration: none; color: #4fc1ff;">email</a></li>
+  <li><a href="https://www.linkedin.com/in/arthuramalir" target="_blank" style="text-decoration: none; color: #4fc1ff;">linkedin</a></li>
+  <li><a href="https://github.com/arthuramalir" target="_blank" style="text-decoration: none; color: #4fc1ff;">github</a></li>
+</ul>
 
-## Experience
-- **TA, Fluid Mechanics - Columbia University (New York City, US), Sep 2025 - Dec 2025**  
-	Led laboratory sessions in Carlton Laboratory, guided students through experimental protocols and data post-processing, and provided detailed feedback on assignments and lab reports.
-- **Project, Multiscale Analysis of Diffusion in Random Networks - Columbia University (New York City, US), Sep 2025 - Dec 2025**  
-	Built a scalable Monte Carlo PDE solver for random 3D Voronoi networks across multiple density regimes. Showed scaling behavior consistent with connected 1D path structures ($L_{REV} \propto \rho^{-1/2}$).
-- **Research Intern, ESTP with Ecole des Ponts ParisTech and ADEME (Cachan, FR), Jun 2025 - Aug 2025**  
-	Cleaned, validated, and integrated experimental and simulation datasets. Developed high-fidelity C++ and FreeFEM++ models for a smectite-clay system and identified electrostatic interactions as the dominant rate-limiting transport mechanism.
-- **Project, Tsunami Wave Propagation Modeling - ESTP (Cachan, FR), Sep 2024 - Jun 2025**  
-	Optimized large-scale MATLAB numerical models for tsunami mitigation via natural barriers (coral reefs, mangroves). Captured 40% run-up reduction and achieved 100x faster computation against experimental baselines.
-- **Intern Site Supervisor - COLAS (Cannes, FR), Jun 2023 - Aug 2023**  
-	Supervised a team of 5-6 workers on a public infrastructure project, organized daily planning, and coordinated between laborers, engineers, and municipal stakeholders.
-- **Automatic Cough Recognition Using Machine Learning - Lycee Janson de Sailly (Paris, FR), Sep 2021 - Jun 2022**  
-	Built a Python ML pipeline using mel-spectrogram audio features and reached 91% validation accuracy on noisy real-world data.
+<span style="color: #6a737d;">> education</span>
+<ul style="list-style-type: '— '; padding-left: 1rem; margin: 0.5rem 0 1rem 0;">
+  <li><strong style="color: #fff;">Columbia University</strong> (New York, US)
+    <ul style="list-style-type: '↳ '; padding-left: 1.2rem; margin: 0.3rem 0; color: #aacaf6;">
+      <li>MS in Engineering Mechanics (Computational & Data-Driven), GPA 3.94/4.0, Dec 2026</li>
+      <li>Numerical Analysis, Stochastic Engineering, Data Science & ML, Multiscale Modeling, Optimization</li>
+    </ul>
+  </li>
+  <li><strong style="color: #fff;">ESTP</strong> (Cachan, FR)
+    <ul style="list-style-type: '↳ '; padding-left: 1.2rem; margin: 0.3rem 0; color: #aacaf6;">
+      <li>BS & MS in Engineering, Grade A (Top 10%), Jun 2026</li>
+      <li>Numerical Analysis, Probability, Structural Mechanics, Fluid Mechanics</li>
+    </ul>
+  </li>
+  <li><strong style="color: #fff;">Lycée Janson de Sailly</strong> (Paris, FR)
+    <ul style="list-style-type: '↳ '; padding-left: 1.2rem; margin: 0.3rem 0; color: #aacaf6;">
+      <li>MPSI & MP, 2022 — Mathematics & Physics Preparatory Classes</li>
+    </ul>
+  </li>
+</ul>
 
-## Skills
-- **Technical:** Mathematical modeling, applied mathematics, fluid dynamics, thermodynamics, statistics, research methods, data handling, project and team coordination
-- **Software:** Python (Pandas, Scikit-learn), C++, FreeFEM++, MATLAB, AutoCAD, Revit, ArcGIS, Microsoft Office
-- **Languages:** English (native), French (native), German (B2)
+<span style="color: #6a737d;">> experience</span>
+<ul style="list-style-type: '— '; padding-left: 1rem; margin: 0.5rem 0 2.5rem 0;">
+  <li><strong style="color: #fff;">TA, Fluid Mechanics</strong> — Columbia University (Sep–Dec 2025)
+    <ul style="list-style-type: '↳ '; padding-left: 1.2rem; margin: 0.3rem 0; color: #aacaf6;">
+      <li>Led Carlton Laboratory sessions, guided experimental protocols & data analysis</li>
+    </ul>
+  </li>
+  <li><strong style="color: #fff;">Multiscale Diffusion in Random Networks</strong> — Columbia University (Sep–Dec 2025)
+    <ul style="list-style-type: '↳ '; padding-left: 1.2rem; margin: 0.3rem 0; color: #aacaf6;">
+      <li>Scalable Monte Carlo PDE solver for 3D Voronoi networks, scaling analysis</li>
+    </ul>
+  </li>
+  <li><strong style="color: #fff;">Research Intern, Clay Transport Modeling</strong> — ESTP/Ecole des Ponts/ADEME (Jun–Aug 2025)
+    <ul style="list-style-type: '↳ '; padding-left: 1.2rem; margin: 0.3rem 0; color: #aacaf6;">
+      <li>C++ & FreeFEM++ models, identified electrostatic interactions as rate-limiting mechanism</li>
+    </ul>
+  </li>
+  <li><strong style="color: #fff;">Tsunami Wave Propagation Modeling</strong> — ESTP (Sep 2024–Jun 2025)
+    <ul style="list-style-type: '↳ '; padding-left: 1.2rem; margin: 0.3rem 0; color: #aacaf6;">
+      <li>100x runtime optimization, captured 40% run-up reduction via natural barriers</li>
+    </ul>
+  </li>
+</ul>
 
-## Activities and Interests
-- **Vice-President, POLMUN ESTP (Cachan, FR), Sep 2024 - Jun 2025**  
-	Organized and chaired Model UN conferences and developed partnerships with external universities and institutions in Paris.
-- **Interests:** Mathematics, history, literature, philosophy, track and field, soccer
+<span style="color: #6a737d;">> skills</span>
+<ul style="list-style-type: '— '; padding-left: 1rem; margin: 0.5rem 0 2.5rem 0;">
+  <li><strong style="color: #fff;">technical:</strong> Mathematical modeling, applied math, fluid dynamics, uncertainty quantification, statistical methods</li>
+  <li><strong style="color: #fff;">software:</strong> Python (Pandas, Scikit-learn), C++, FreeFEM++, MATLAB, AutoCAD, ArcGIS</li>
+  <li><strong style="color: #fff;">languages:</strong> English (native), French (native), German (B2)</li>
+</ul>
 
-I am seeking opportunities in data science, quantitative analysis/research, and scientific computing where rigorous modeling and practical impact meet.
+<span style="color: #6a737d;">> interests</span>
+<p style="margin: 0.5rem 0 2.5rem 0; color: #aacaf6;">
+  Mathematics, history, literature, philosophy, 19th century European thought, track & field, soccer
+</p>
+
+<p style="margin-top: 2rem; color: #6a737d; font-size: 0.85rem;">
+  Seeking opportunities in data science, quantitative research, and scientific computing where rigorous modeling and practical impact meet.
+</p>
+
+</div>

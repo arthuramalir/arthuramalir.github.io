@@ -3,46 +3,81 @@ layout: page
 title: Projects
 ---
 
-This page summarizes selected quantitative and scientific-computing projects.  
-Code repositories and updates are available on GitHub: [github.com/arthuramalir](https://github.com/arthuramalir)
+<div style="font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.9rem; line-height: 1.7; color: #e0e0e0; letter-spacing: -0.01em;">
 
-### Multiscale Diffusion in Random Networks (Columbia)
-Built a scalable Monte Carlo PDE solver for random 3D Voronoi networks across density regimes.
+<span style="color: #6a737d;">// quantitative & scientific computing</span>
+<p style="margin: 0.5rem 0 2.5rem 0;">
+  Selected projects in computational modeling, data science, and numerical methods. Code and documentation available on <a href="https://github.com/arthuramalir" target="_blank" style="text-decoration: none; color: #4fc1ff;">GitHub</a>.
+</p>
 
-**Highlights:**
-- Implemented simulation workflows for stochastic network geometries.
-- Investigated convergence and representative volume effects.
-- Observed scaling consistent with connected path structure behavior ($L_{REV} \propto \rho^{-1/2}$).
+<span style="color: #6a737d;">> latest projects</span>
 
----
+<div style="margin: 1.5rem 0; padding-left: 1rem; border-left: 2px solid #4fc1ff;">
+  <p style="margin: 0.3rem 0; color: #fff;"><strong>Cardiovascular Hemodynamics: 0D Model</strong></p>
+  <p style="margin: 0.5rem 0; color: #aacaf6;">
+    Multi-chamber 0D lumped-parameter model of the human cardiovascular system. Implemented circuit-based hemodynamic equations to capture pressure-volume relationships, valve dynamics, and systemic/pulmonary circulation.
+  </p>
+  <ul style="list-style-type: '↳ '; padding-left: 1.2rem; margin: 0.3rem 0; color: #aacaf6; font-size: 0.9rem;">
+    <li>Coupled ODE solver for heart chambers and peripheral vessels</li>
+    <li>Parameter estimation from clinical data</li>
+  </ul>
+</div>
 
-### Smectite-Clay Transport Modeling (ESTP / Ecole des Ponts / ADEME)
-Developed high-fidelity C++ and FreeFEM++ models and integrated experimental/simulation datasets for parameter estimation.
+<div style="margin: 1.5rem 0; padding-left: 1rem; border-left: 2px solid #4fc1ff;">
+  <p style="margin: 0.3rem 0; color: #fff;"><strong>Physics-Informed Neural Networks (PINNs) for Black-Scholes</strong></p>
+  <p style="margin: 0.5rem 0; color: #aacaf6;">
+    Deep learning framework for pricing derivatives using physics-informed neural networks. Embeds the Black-Scholes PDE directly into the loss function to enforce financial dynamics.
+  </p>
+  <ul style="list-style-type: '↳ '; padding-left: 1.2rem; margin: 0.3rem 0; color: #aacaf6; font-size: 0.9rem;">
+    <li>Automatic differentiation for PDE residuals</li>
+    <li>Pricing accuracy on benchmark European options</li>
+  </ul>
+</div>
 
-**Highlights:**
-- Built and validated computational models for an experimentally developed smectite-clay system.
-- Identified electrostatic interactions as the dominant rate-limiting transport mechanism in this configuration.
-- Contributed to model-driven research direction in the IRGAK project.
+<div style="margin: 1.5rem 0; padding-left: 1rem; border-left: 2px solid #4fc1ff;">
+  <p style="margin: 0.3rem 0; color: #fff;"><strong>NA4PDEs: Numerical Methods for PDEs</strong></p>
+  <p style="margin: 0.5rem 0; color: #aacaf6;">
+    Comprehensive exploration of finite element methods, finite difference schemes, and advanced discretization techniques for solving complex PDEs.
+  </p>
+  <ul style="list-style-type: '↳ '; padding-left: 1.2rem; margin: 0.3rem 0; color: #aacaf6; font-size: 0.9rem;">
+    <li><a href="/archive" style="text-decoration: none; color: #4fc1ff;">View project post</a></li>
+  </ul>
+</div>
 
----
+<div style="margin: 1.5rem 0; padding-left: 1rem; border-left: 2px solid #4fc1ff;">
+  <p style="margin: 0.3rem 0; color: #fff;"><strong>Multiscale Diffusion in Random Networks</strong></p>
+  <p style="margin: 0.5rem 0; color: #aacaf6;">
+    Scalable Monte Carlo PDE solver for random 3D Voronoi networks. Investigated representative volume effects and scaling behavior across multiple density regimes.
+  </p>
+  <ul style="list-style-type: '↳ '; padding-left: 1.2rem; margin: 0.3rem 0; color: #aacaf6; font-size: 0.9rem;">
+    <li>Stochastic network geometries and REV analysis</li>
+    <li>Scaling consistent with connected 1D path structures (L<sub>REV</sub> ∝ ρ<sup>-1/2</sup>)</li>
+  </ul>
+</div>
 
-### Tsunami Wave Propagation Modeling (ESTP)
-Optimized large-scale MATLAB models to study tsunami mitigation from coral reefs and mangroves.
+<div style="margin: 1.5rem 0; padding-left: 1rem; border-left: 2px solid #4fc1ff;">
+  <p style="margin: 0.3rem 0; color: #fff;"><strong>Smectite-Clay Transport Modeling</strong></p>
+  <p style="margin: 0.5rem 0; color: #aacaf6;">
+    High-fidelity C++ and FreeFEM++ models for experimentally-developed systems. Identified electrostatic interactions as the dominant rate-limiting transport mechanism.
+  </p>
+  <ul style="list-style-type: '↳ '; padding-left: 1.2rem; margin: 0.3rem 0; color: #aacaf6; font-size: 0.9rem;">
+    <li>Computational model-experiment integration</li>
+    <li>Parameter estimation and validation</li>
+  </ul>
+</div>
 
-**Highlights:**
-- Reduced runtime by approximately 100x through model and implementation optimization.
-- Captured up to 40% run-up reduction induced by sustainable natural barriers.
-- Validated model behavior against experimental datasets.
+<div style="margin: 1.5rem 0; padding-left: 1rem; border-left: 2px solid #4fc1ff;">
+  <p style="margin: 0.3rem 0; color: #fff;"><strong>Tsunami Wave Propagation Mitigation</strong></p>
+  <p style="margin: 0.5rem 0; color: #aacaf6;">
+    Large-scale MATLAB models optimized for tsunami propagation with natural barriers (coral reefs, mangroves). Achieved 100x computational speedup with 40% run-up reduction.
+  </p>
+  <ul style="list-style-type: '↳ '; padding-left: 1.2rem; margin: 0.3rem 0; color: #aacaf6; font-size: 0.9rem;">
+    <li>Model optimization and experimental validation</li>
+  </ul>
+</div>
 
----
+<p style="margin-top: 3rem; color: #6a737d; font-size: 0.85rem;">
+  More projects and updates available on <a href="https://github.com/arthuramalir" target="_blank" style="text-decoration: none; color: #4fc1ff;">GitHub</a>.
+</p>
 
-### Automatic Cough Recognition Using ML (Lycee Janson de Sailly)
-Built a Python-based machine learning pipeline using mel-spectrogram audio features.
-
-**Highlights:**
-- Implemented end-to-end preprocessing, feature extraction, and classification.
-- Reached 91% validation accuracy on noisy real-world datasets.
-
----
-
-More projects will be added as I publish additional code and reports.
+</div>
