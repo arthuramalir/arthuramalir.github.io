@@ -11,10 +11,10 @@ order: 1
 
 <span style="color: #6a737d;">// about me</span>
 <p style="margin: 0.5rem 0 1.5rem 0;">
-  Hello! My name is Arthur. I am a Master's student at Columbia focused on numerical methods, stochastic models, and uncertainty quantification.
+  Hello! I'm Arthur, a Master's student at Columbia specializing in computational engineering and data-driven methods. I'm pursuing roles in quantitative finance, algorithmic trading, and financial engineering.
 </p>
 <p style="margin: 0.5rem 0 2.5rem 0; color: #aacaf6;">
-  I am most interested in building solid mathematical models of complex phenomena.
+  I build rigorous mathematical models for complex systems, combining numerical methods, machine learning, and stochastic modeling to solve real-world problems in finance and beyond.
 </p>
 
 <!-- Centered Profile Picture Container at the very bottom -->
@@ -29,10 +29,10 @@ order: 1
 
 <span style="color: #6a737d;">> current focus</span>
 <ul style="list-style-type: '— '; padding-left: 1rem; margin: 0.5rem 0 2.5rem 0;">
-  <li><strong style="color: #fff;">PDEs and how to model them</strong></li>
-  <li>Predictive modeling and optimization</li>
-  <li>Stochastic systems and uncertainty quantification</li>
-  <li>Methods for higher-order problems</li>
+  <li><strong style="color: #fff;">Quantitative Finance:</strong> Option pricing, risk modeling, algorithmic trading</li>
+  <li><strong style="color: #fff;">Machine Learning for Finance:</strong> Physics-Informed Neural Networks (PINNs), time-series forecasting</li>
+  <li>Stochastic modeling and Monte Carlo methods</li>
+  <li>Numerical PDEs and scientific computing</li>
 </ul>
 
 <span style="color: #6a737d;">> quick profile</span>
@@ -44,7 +44,7 @@ order: 1
       <li>MPSI & MP @ Lycée Janson de Sailly (Pure Math & Physics)</li>
     </ul>
   </li>
-  <li><strong style="color: #fff;">experience:</strong> Research modeling in C++/FreeFEM++, large-scale MATLAB simulation, and Python ML & UQ pipelines</li>
+  <li><strong style="color: #fff;">experience:</strong> Quantitative modeling, numerical computation (C++/FreeFEM++/MATLAB), machine learning pipelines (Python/TensorFlow), stochastic analysis, and uncertainty quantification</li>
   <li><strong style="color: #fff;">interests:</strong> 19th Century Literature & Philosophy, Napoleonic Era History, Chelsea FC</li>
 </ul>
 
