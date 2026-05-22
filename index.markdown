@@ -44,14 +44,6 @@ order: 1
   <a href="https://github.com" target="_blank" style="text-decoration: none; color: #4fc1ff;">github</a>
 </div>
 
-<!-- Centered Landscape/Scenic Image Container -->
-<div style="margin-top: 4rem; display: flex; justify-content: center;">
-  <figure style="margin: 0; max-width: 400px; text-align: center;">
-    <img src="/assets/images/moulin-henan.jpg" alt="Moulin a maree du Henan" style="width: 100%; height: auto; filter: grayscale(30%) brightness(90%);" />
-    <figcaption style="font-size: 0.75rem; margin-top: 0.6rem; color: #6a737d; text-transform: uppercase; letter-spacing: 0.05em;">[ fig 01. Moulin à marée du Hénan ]</figcaption>
-  </figure>
-</div>
-
 <!-- Centered Profile Picture Container at the very bottom -->
 <div style="margin-top: 3rem; display: flex; justify-content: center;">
   <figure style="margin: 0; width: 120px; text-align: center;">
@@ -61,5 +53,15 @@ order: 1
     <figcaption style="font-size: 0.75rem; margin-top: 0.6rem; color: #6a737d; text-transform: uppercase; letter-spacing: 0.05em;">[ ama2409 ]</figcaption>
   </figure>
 </div>
+
+<!-- Centered Landscape/Scenic Image Container -->
+<div style="margin-top: 4rem; display: flex; justify-content: center;">
+  <figure style="margin: 0; max-width: 400px; text-align: center;">
+    <img src="/assets/images/moulin-henan.jpg" alt="Moulin a maree du Henan" style="width: 100%; height: auto; filter: grayscale(30%) brightness(90%);" />
+    <figcaption style="font-size: 0.75rem; margin-top: 0.6rem; color: #6a737d; text-transform: uppercase; letter-spacing: 0.05em;">[ fig 01. Moulin à marée du Hénan ]</figcaption>
+  </figure>
+</div>
+
+
 
 </div>
