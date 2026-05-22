@@ -13,7 +13,7 @@ order: 1
 <p style="margin: 0.5rem 0 1.5rem 0;">
   Hello! My name is Arthur. I am a Master's student at Columbia focused on numerical methods, stochastic models, and uncertainty quantification.
 </p>
-<p style="margin: 0.5rem 0 2.5rem 0;">
+<p style="margin: 0.5rem 0 2.5rem 0; color: #63a1e9;">
   I am most interested in building solid mathematical models of complex phenomena.
 </p>
 
@@ -38,7 +38,7 @@ order: 1
 <span style="color: #6a737d;">> quick profile</span>
 <ul style="list-style-type: '— '; padding-left: 1rem; margin: 0.5rem 0 2.5rem 0;">
   <li><strong style="color: #fff;">education:</strong>
-    <ul style="list-style-type: '↳ '; padding-left: 1.2rem; margin: 0.3rem 0; color: #b5cea8;">
+    <ul style="list-style-type: '↳ '; padding-left: 1.2rem; margin: 0.3rem 0; color: #aacaf6;">
       <li>MS @ Columbia — Engineering Mechanics (Computational & Data-Driven Methods)</li>
       <li>MS @ ESTP — Engineering (Civil & Electrical)</li>
       <li>MPSI & MP @ Lycée Janson de Sailly (Pure Math & Physics)</li>
