@@ -32,7 +32,7 @@ My passion is on building solid mathematical models of complex problems.
       <li>methods for higher-order problems</li>
     </ul>
   </div>
-
+</div>
 
 ### quick profile
 - **education:**
