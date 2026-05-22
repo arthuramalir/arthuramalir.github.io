@@ -13,6 +13,11 @@
 @import "message";
 @import "toc";
 
+body, html, p, li, span, a, h1, h2, h3, h4, h5, h6 {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace !important;
+  letter-spacing: -0.01em;
+}
+
 html {
   font-size: 16px; /* Scales the baseline font for the entire site */
 }
