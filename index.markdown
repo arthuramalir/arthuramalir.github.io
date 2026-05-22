@@ -59,7 +59,7 @@ order: 1
 <div style="margin-top: 4rem; display: flex; justify-content: center;">
   <figure style="margin: 0; max-width: 400px; text-align: center;">
     <img src="assets/996_001.jpg" alt="Moulin a maree du Henan" style="width: 100%; height: auto; filter: grayscale(30%) brightness(90%);" />
-    <figcaption style="font-size: 0.75rem; margin-top: 0.6rem; color: #6a737d; text-transform: uppercase; letter-spacing: 0.05em;">[ fig 01. LE CHATEAU DU HENAN SUR LES RIVES BOISEES DE L'AVEN ]</figcaption>
+    <figcaption style="font-size: 0.75rem; margin-top: 0.6rem; color: #6a737d; text-transform: uppercase; letter-spacing: 0.05em;">[ fig 01. LE CHÂTEAU DU HÉNAN SUR LES RIVES BOISÉES DE L'AVEN ]</figcaption>
   </figure>
 </div>
 
