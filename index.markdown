@@ -23,7 +23,7 @@ order: 1
     <div style="width: 120px; height: 120px; overflow: hidden; border: 1px solid #333;">
       <img src="assets/5a55721f.jpg" alt="Arthur" style="width: 100%; height: 100%; object-fit: cover; transform: scale(1.3); filter: grayscale(30%) brightness(90%);" />
     </div>
-    <figcaption style="font-size: 0.75rem; margin-top: 0.6rem; color: #6a737d; text-transform: uppercase; letter-spacing: 0.05em;">[ ama2409 ]</figcaption>
+    <figcaption style="font-size: 0.75rem; margin-top: 0.6rem; color: #6a737d; text-transform: uppercase; letter-spacing: 0.05em;">[ ME ]</figcaption>
   </figure>
 </div>
 
