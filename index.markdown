@@ -19,10 +19,10 @@ order: 1
   <div style="flex: 1; min-width: 250px;">
     <h2 style="margin-top: 0;">about me</h2>
     <p style="margin: 0.5rem 0; line-height: 1.6;">
-      Hello! My name is <strong>Arthur</strong>. I am a Master's student at Columbia University focused on numerical methods, stochastic models, and uncertainty quantification.
+      Hello! My name is Arthur. I am a Master's student at Columbia focused on numerical methods, stochastic models, and uncertainty quantification.
     </p>
     <p style="margin: 0.5rem 0; line-height: 1.6; font-style: italic; color: #555;">
-      My passion lies in building solid mathematical models for complex, real-world problems.
+      I am most interested in building solid mathematical models of complex phenomena.
     </p>
   </div>
 
