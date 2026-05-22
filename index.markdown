@@ -18,7 +18,7 @@ My passion is on building solid mathematical models of complex problems.
 
   <!-- Left: Image -->
   <figure style="margin: 0; flex: 0 0 130px; max-width: 130px;">
-    <img src="assets/WhatsApp Image 2026-05-21 at 15.52.57.jpeg" alt="me" style="width: 100%; height: auto; border-radius: 4px;" />
+    <img src="assets/WhatsApp Image 2025-07-13 at 18.49.11_031e3b28.jpg" alt="me" style="width: 100%; height: auto; border-radius: 4px;" />
     <figcaption style="font-size: 0.9rem; margin-top: 0.4rem; color: #888; text-align: center;">me</figcaption>
   </figure>
 
