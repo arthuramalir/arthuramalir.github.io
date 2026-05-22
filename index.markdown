@@ -17,6 +17,16 @@ order: 1
   I am most interested in building solid mathematical models of complex phenomena.
 </p>
 
+<!-- Centered Profile Picture Container at the very bottom -->
+<div style="margin-top: 3rem; display: flex; justify-content: center;">
+  <figure style="margin: 0; width: 120px; text-align: center;">
+    <div style="width: 120px; height: 120px; overflow: hidden; border: 1px solid #333;">
+      <img src="assets/5a55721f.jpg" alt="Arthur" style="width: 100%; height: 100%; object-fit: cover; transform: scale(1.3); filter: grayscale(30%) brightness(90%);" />
+    </div>
+    <figcaption style="font-size: 0.75rem; margin-top: 0.6rem; color: #6a737d; text-transform: uppercase; letter-spacing: 0.05em;">[ ama2409 ]</figcaption>
+  </figure>
+</div>
+
 <span style="color: #6a737d;">> current focus</span>
 <ul style="list-style-type: '— '; padding-left: 1rem; margin: 0.5rem 0 2.5rem 0;">
   <li><strong style="color: #fff;">PDEs and how to model them</strong></li>
@@ -44,15 +54,6 @@ order: 1
   <a href="https://github.com" target="_blank" style="text-decoration: none; color: #4fc1ff;">github</a>
 </div>
 
-<!-- Centered Profile Picture Container at the very bottom -->
-<div style="margin-top: 3rem; display: flex; justify-content: center;">
-  <figure style="margin: 0; width: 120px; text-align: center;">
-    <div style="width: 120px; height: 120px; overflow: hidden; border: 1px solid #333;">
-      <img src="assets/5a55721f.jpg" alt="Arthur" style="width: 100%; height: 100%; object-fit: cover; transform: scale(1.3); filter: grayscale(30%) brightness(90%);" />
-    </div>
-    <figcaption style="font-size: 0.75rem; margin-top: 0.6rem; color: #6a737d; text-transform: uppercase; letter-spacing: 0.05em;">[ ama2409 ]</figcaption>
-  </figure>
-</div>
 
 <!-- Centered Landscape/Scenic Image Container -->
 <div style="margin-top: 4rem; display: flex; justify-content: center;">
