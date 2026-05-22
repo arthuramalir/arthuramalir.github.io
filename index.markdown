@@ -44,11 +44,12 @@ My passion is on building solid mathematical models of complex problems.
 
 [Email](mailto:ama2409@columbia.edu) | [LinkedIn](https://www.linkedin.com/in/arthuramalir) | [GitHub](https://github.com/arthuramalir)
 
+<div class="image-container">
 <figure style="float: left; width: 260px; margin: 0 1rem 1rem 0;">
 	<img src="/assets/images/moulin-henan.jpg" alt="Moulin a maree du Henan" style="width: 100%; height: auto; border-radius: 4px;" />
 	<figcaption style="font-size: 0.9rem; margin-top: 0.4rem;">Moulin à marée du Hénan.</figcaption>
 </figure>
-
+</div>
 
 
 <div style="clear: both;"></div>
