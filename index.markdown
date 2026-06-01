@@ -11,10 +11,10 @@ order: 1
 
 <span style="color: #6a737d;">// about me</span>
 <p style="margin: 0.5rem 0 1.5rem 0;">
-  Hello! My name is Arthur. I am a Master's student at Columbia focused on computational modeling, stochastic systems, and quantitative analysis—with applications to risk modeling, portfolio optimization, and financial data science.
+  Hello! My name is Arthur. I am a Master's student at Columbia focused on numerical methods, stochastic modeling, and computational approaches to engineering problems.
 </p>
 <p style="margin: 0.5rem 0 2.5rem 0; color: #aacaf6;">
-  I build rigorous mathematical models to solve complex problems in finance and engineering, bridging academic theory with practical quantitative insights.
+  I build mathematical models and computational simulations to solve complex problems in applied mathematics and scientific computing.
 </p>
 
 <!-- Centered Profile Picture Container at the very bottom -->
@@ -29,10 +29,10 @@ order: 1
 
 <span style="color: #6a737d;">> current focus</span>
 <ul style="list-style-type: '— '; padding-left: 1rem; margin: 0.5rem 0 2.5rem 0;">
-  <li><strong style="color: #fff;">Stochastic modeling & Monte Carlo methods</strong> (risk analysis, derivatives pricing)</li>
-  <li>Quantitative portfolio optimization</li>
-  <li>Financial data integration & time series analysis</li>
-  <li>Computational methods for predictive modeling and uncertainty quantification</li>
+  <li><strong style="color: #fff;">Stochastic modeling & Monte Carlo methods</strong></li>
+  <li>Numerical methods for PDEs and differential equations</li>
+  <li>Large-scale computational simulation and optimization</li>
+  <li>Data-driven modeling and uncertainty quantification</li>
 </ul>
 
 <span style="color: #6a737d;">> quick profile</span>

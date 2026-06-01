@@ -1,113 +1,88 @@
 ---
 layout: post
-title:  "Stochastic Modeling for Quantitative Finance"
+title:  "Uncertainty Quantification in Stochastic Modeling"
 date:   2026-06-02 12:00:00 -0500
 ---
 
-## Introduction
+## The Challenge of Uncertainty
 
-Stochastic modeling—the study of systems with inherent randomness—is foundational to modern quantitative finance. From option pricing to portfolio risk assessment, stochastic models help us quantify uncertainty and make better financial decisions.
+Real-world systems rarely behave predictably. Weather patterns shift, material properties vary, market conditions change. How do we build models and make decisions when the future is inherently uncertain?
 
-## Why Stochastic Models Matter
+This is the core question of **uncertainty quantification (UQ)**: how to quantify, propagate, and understand uncertainty through mathematical models.
 
-Traditional deterministic models assume perfect predictability. In reality, financial markets are inherently uncertain. Stochastic models capture this uncertainty by:
+## Sources of Uncertainty
 
-- Modeling asset prices as random processes
-- Quantifying parameter uncertainty in risk models
-- Assessing how small market changes propagate through portfolios
+Uncertainties arise from several sources:
 
-## Key Stochastic Processes in Finance
+1. **Aleatoric Uncertainty** — Inherent randomness in the system
+   - Quantum effects in physics
+   - Stochasticity in biological systems
+   - Market volatility in economics
 
-### Geometric Brownian Motion (GBM)
+2. **Epistemic Uncertainty** — Lack of knowledge
+   - Measurement error
+   - Model parameters we don't know exactly
+   - Incomplete data
 
-The most common model for stock prices:
+3. **Model Uncertainty** — The model itself may be wrong
+   - Simplified equations that ignore effects
+   - Approximations and numerical errors
 
-$$dS_t = \mu S_t \, dt + \sigma S_t \, dW_t$$
+## Basic Approach: Uncertainty Propagation
 
-Where:
-- $S_t$ = stock price at time $t$
-- $\mu$ = drift (expected return)
-- $\sigma$ = volatility (standard deviation of returns)
-- $W_t$ = Brownian motion (random increment)
-
-**Application:** Black-Scholes option pricing relies on GBM
-
-### Mean-Reverting Processes
-
-For interest rates and commodities that tend to return to long-term averages:
-
-$$dr_t = \kappa(\bar{r} - r_t) \, dt + \sigma \, dW_t$$
-
-**Application:** Bond pricing, interest rate derivatives, commodity futures
-
-### Jump-Diffusion Models
-
-For assets that can experience sudden, discontinuous moves:
-
-$$dS_t = \mu S_t \, dt + \sigma S_t \, dW_t + J_t \, dN_t$$
-
-**Application:** Modeling market crashes, earnings announcements, geopolitical events
-
-## Parameter Estimation & Calibration
-
-A crucial challenge: **How do we choose model parameters?**
-
-From historical data:
-- Estimate $\mu$ and $\sigma$ from past returns
-- Use maximum likelihood estimation (MLE)
-- Apply regression or filtering techniques
-
-Validation:
-- **Backtesting:** Do simulated paths match historical distributions?
-- **Stress Testing:** Do rare events get reasonable probability?
-- **Sensitivity Analysis:** How sensitive is our output to parameter changes?
-
-In my research on parameter estimation in transport systems, I've applied these techniques to calibrate complex models against experimental data—an approach directly transferable to financial model calibration.
-
-## Application to Risk Management
-
-### Value at Risk (VaR)
-
-Stochastic simulation generates the distribution of portfolio returns:
+Given uncertain inputs, how does uncertainty affect outputs?
 
 ```
-1. Simulate 10,000 price paths using our stochastic model
-2. Calculate portfolio value at end of each path
-3. Sort outcomes from worst to best
-4. VaR_95% = 5th percentile loss
+Uncertain Inputs → Physical/Mathematical Model → Uncertain Outputs
 ```
 
-### Expected Shortfall (CVaR)
+**Example:** A bridge design problem
+- Input: Material strength has ±10% uncertainty (epistemic)
+- Input: Load varies due to wind, traffic (aleatoric)
+- Question: What's the probability the bridge fails?
 
-Captures tail risk more effectively than VaR:
+## Methods for UQ
 
-```
-CVaR_95% = Average loss in the worst 5% of scenarios
-```
+### 1. Monte Carlo Sampling (Most General)
+- Run model with many random input samples
+- Analyze distribution of outputs
+- **Advantage:** Works for any model, any complexity
+- **Disadvantage:** Requires many simulations (slow)
 
-### Stress Testing
+### 2. Polynomial Chaos Expansion (Efficient)
+- Approximate the input-output relationship with polynomial basis functions
+- Requires fewer model evaluations than Monte Carlo
+- **Advantage:** Much faster than brute-force Monte Carlo
+- **Disadvantage:** Doesn't scale well to very high dimensions
 
-Replace randomness with extreme but plausible scenarios:
+### 3. Sensitivity Analysis (Understanding)
+- Which inputs matter most to the output?
+- Focus measurement/modeling effort on important inputs
+- Ignore negligible inputs
 
-```
-"What if volatility doubles?"
-"What if correlation spikes to 0.95?"
-"What if a systemic shock occurs?"
-```
+## Application in My Research
 
-## From Theory to Practice
+In my work on multiscale diffusion and transport modeling, I've applied UQ techniques to:
 
-My background in stochastic systems and uncertainty quantification directly translates to:
+- **Model validation:** How well does simulation match experiment given uncertainties?
+- **Parameter estimation:** What combination of parameters best fits data?
+- **Scaling behavior:** At what scales do different effects dominate?
+- **Convergence analysis:** How many Monte Carlo samples do we need for reliable estimates?
 
-- **Model Development:** Building accurate representations of market dynamics
-- **Numerical Implementation:** Efficient Monte Carlo and partial differential equation solvers
-- **Validation:** Rigorous statistical testing and sensitivity analysis
-- **Optimization:** Choosing portfolios and trading strategies under uncertainty
+## Why This Matters
+
+Whether you're designing infrastructure, predicting environmental impacts, or analyzing complex systems, uncertainty matters. Models that ignore uncertainty can lead to:
+- Overconfident predictions
+- Missed risks
+- Poor decision-making under uncertainty
+
+Good engineering and science requires quantifying and understanding uncertainty.
 
 ## Conclusion
 
-Stochastic modeling is the bridge between financial theory and real-world risk management. By understanding both the mathematics and the practical implementation, we can build more resilient financial systems and make better risk-adjusted decisions.
+Uncertainty quantification bridges theory and practice. It's not about eliminating uncertainty (impossible), but about understanding and quantifying it so we can make better decisions.
 
 ---
 
-*For more on computational stochastic methods, see my projects on multiscale diffusion and uncertainty quantification.*
+*For practical examples, see my projects on stochastic network modeling and parameter estimation.*
+
