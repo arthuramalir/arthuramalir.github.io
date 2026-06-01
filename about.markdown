@@ -5,7 +5,7 @@ permalink: /about/
 order: 2
 ---
 
-I am a dual-degree engineering student with a strong quantitative background and a focus on computational modeling, statistics, and scientific computing.
+I am a dual-degree engineering student with a strong quantitative background in computational modeling, statistics, financial data science, and scientific computing. I combine rigorous academic training with practical applications in quantitative finance and risk analysis.
 
 ## Contact
 - Phone: (332) 910-3114
@@ -16,7 +16,8 @@ I am a dual-degree engineering student with a strong quantitative background and
 ## Education
 - **Columbia University, New York City (US)**  
 	MS in Engineering Mechanics (Computational and Data-Driven Engineering), GPA: 3.94/4.0, Expected Dec 2026  
-	Relevant coursework: Numerical Analysis, Stochastic Engineering, Data Science and Machine Learning, Multiscale Computational Modeling, Predictive Modeling and Optimization, Random Signals
+	**Finance & Quantitative Coursework:** Stochastic Engineering, Data Science and Machine Learning, Predictive Modeling and Optimization, Random Signals, Numerical Analysis  
+	Additional: Multiscale Computational Modeling
 - **ESTP, Cachan (FR)**  
 	BS and MS in Engineering, ECTS Grade A (Top 10%), Expected Jun 2026  
 	Relevant coursework: Numerical Analysis, Probability and Statistics, Structural Mechanics, Fluid Mechanics, Project Management, Law
@@ -39,8 +40,9 @@ I am a dual-degree engineering student with a strong quantitative background and
 	Built a Python ML pipeline using mel-spectrogram audio features and reached 91% validation accuracy on noisy real-world data.
 
 ## Skills
-- **Technical:** Mathematical modeling, applied mathematics, fluid dynamics, thermodynamics, statistics, research methods, data handling, project and team coordination
-- **Software:** Python (Pandas, Scikit-learn), C++, FreeFEM++, MATLAB, AutoCAD, Revit, ArcGIS, Microsoft Office
+- **Quantitative Finance & Analysis:** Monte Carlo simulation, stochastic modeling, time series analysis, risk metrics (VaR, CVaR), portfolio optimization, derivative pricing concepts, predictive modeling
+- **Technical:** Mathematical modeling, applied mathematics, fluid dynamics, thermodynamics, statistics, numerical analysis, research methods, data handling, project and team coordination
+- **Software:** Python (Pandas, NumPy, SciPy, Scikit-learn, QuantLib), C++, FreeFEM++, MATLAB, SQL, AutoCAD, Revit, ArcGIS, Microsoft Office, financial data APIs
 - **Languages:** English (native), French (native), German (B2)
 
 ## Activities and Interests
@@ -48,4 +50,4 @@ I am a dual-degree engineering student with a strong quantitative background and
 	Organized and chaired Model UN conferences and developed partnerships with external universities and institutions in Paris.
 - **Interests:** Mathematics, history, literature, philosophy, track and field, soccer
 
-I am seeking opportunities in data science, quantitative analysis/research, and scientific computing where rigorous modeling and practical impact meet.
+I am seeking opportunities in quantitative finance, risk management, financial data science, and algorithmic trading where rigorous modeling and computational expertise meet practical market impact.

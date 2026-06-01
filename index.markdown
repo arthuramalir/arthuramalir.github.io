@@ -11,10 +11,10 @@ order: 1
 
 <span style="color: #6a737d;">// about me</span>
 <p style="margin: 0.5rem 0 1.5rem 0;">
-  Hello! My name is Arthur. I am a Master's student at Columbia focused on numerical methods, stochastic models, and uncertainty quantification.
+  Hello! My name is Arthur. I am a Master's student at Columbia focused on computational modeling, stochastic systems, and quantitative analysis—with applications to risk modeling, portfolio optimization, and financial data science.
 </p>
 <p style="margin: 0.5rem 0 2.5rem 0; color: #aacaf6;">
-  I am most interested in building solid mathematical models of complex phenomena.
+  I build rigorous mathematical models to solve complex problems in finance and engineering, bridging academic theory with practical quantitative insights.
 </p>
 
 <!-- Centered Profile Picture Container at the very bottom -->
@@ -29,10 +29,10 @@ order: 1
 
 <span style="color: #6a737d;">> current focus</span>
 <ul style="list-style-type: '— '; padding-left: 1rem; margin: 0.5rem 0 2.5rem 0;">
-  <li><strong style="color: #fff;">PDEs and how to model them</strong></li>
-  <li>Predictive modeling and optimization</li>
-  <li>Stochastic systems and uncertainty quantification</li>
-  <li>Methods for higher-order problems</li>
+  <li><strong style="color: #fff;">Stochastic modeling & Monte Carlo methods</strong> (risk analysis, derivatives pricing)</li>
+  <li>Quantitative portfolio optimization</li>
+  <li>Financial data integration & time series analysis</li>
+  <li>Computational methods for predictive modeling and uncertainty quantification</li>
 </ul>
 
 <span style="color: #6a737d;">> quick profile</span>
@@ -50,8 +50,8 @@ order: 1
 
 <div style="margin: 2rem 0 4rem 0; font-weight: bold;">
   <a href="mailto:ama2409@columbia.edu" style="text-decoration: none; color: #4fc1ff;">email</a> <span style="color: #444;">/</span> 
-  <a href="https://linkedin.com" target="_blank" style="text-decoration: none; color: #4fc1ff;">linkedin</a> <span style="color: #444;">/</span> 
-  <a href="https://github.com" target="_blank" style="text-decoration: none; color: #4fc1ff;">github</a>
+  <a href="https://www.linkedin.com/in/arthuramalir" target="_blank" style="text-decoration: none; color: #4fc1ff;">linkedin</a> <span style="color: #444;">/</span> 
+  <a href="https://github.com/arthuramalir" target="_blank" style="text-decoration: none; color: #4fc1ff;">github</a>
 </div>
 
 
