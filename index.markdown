@@ -14,7 +14,7 @@ order: 1
   Hello! My name is Arthur. I am a Master's student at Columbia focused on numerical methods, stochastic modeling, and computational approaches to engineering problems.
 </p>
 <p style="margin: 0.5rem 0 2.5rem 0; color: #aacaf6;">
-  I build mathematical models and computational simulations to solve complex problems in applied mathematics and scientific computing.
+  My passion lies in building and stuyding mathematical models.
 </p>
 
 <!-- Centered Profile Picture Container at the very bottom -->
