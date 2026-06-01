@@ -11,14 +11,19 @@ This page summarizes selected quantitative and scientific-computing projects. Co
 ## Computational Modeling & Simulation
 
 ### Multiscale Diffusion in Random Networks (Columbia) — Monte Carlo & Stochastic Methods
+
 Built a scalable Monte Carlo PDE solver for random 3D Voronoi networks—demonstrating practical techniques for modeling uncertainty and stochastic phenomena at scale.
+
+**Skills:** Monte Carlo Methods • Stochastic Systems • Uncertainty Quantification • Numerical Analysis  
+**Impact:** Discovered power-law scaling behavior ($L_{REV} \propto \rho^{-1/2}$), enabling efficient computation across scales
 
 **Highlights:**
 - Implemented simulation workflows for stochastic network geometries
 - Investigated convergence behavior and representative volume element effects
-- Observed scaling consistent with connected path structures ($L_{REV} \propto \rho^{-1/2}$)
+- Observed scaling consistent with connected path structures
 - **Methods Demonstrated:** Monte Carlo sampling, variance analysis, large-scale computational simulation
-- **Transferable Skills:** These techniques apply broadly to any domain requiring uncertainty quantification and probabilistic simulation
+
+**Deep Dive:** Read the blog post [Curse of Dimensionality in Multiscale Diffusion]({{ '/2026/06/01/curse-of-dimensionality-multiscale-diffusion.html' | relative_url }})
 
 **Academic Paper:**
 <embed src="/assets/NA4PDEs_project.pdf" type="application/pdf" width="100%" height="500px" />
@@ -26,7 +31,11 @@ Built a scalable Monte Carlo PDE solver for random 3D Voronoi networks—demonst
 ---
 
 ### Smectite-Clay Transport Modeling (ESTP / Ecole des Ponts / ADEME) — Data Integration & Model Calibration
+
 Developed C++ and FreeFEM++ computational models and integrated multi-source experimental/simulation datasets for parameter estimation and model validation.
+
+**Skills:** Model Calibration • Data Integration • FreeFEM++ • C++  
+**Impact:** Identified electrostatic interactions as dominant rate-limiting transport mechanism
 
 **Highlights:**
 - Built and validated high-fidelity computational models against experimental data
@@ -38,7 +47,11 @@ Developed C++ and FreeFEM++ computational models and integrated multi-source exp
 ---
 
 ### Tsunami Wave Propagation Modeling (ESTP) — Large-Scale Optimization & Numerical Methods
+
 Optimized large-scale MATLAB numerical models for wave propagation and barrier effectiveness—achieving 100x speedup through algorithmic improvements.
+
+**Skills:** Numerical Optimization • MATLAB • Performance Profiling • Physics-Based Simulation  
+**Impact:** 100x computational speedup, validated wave run-up reduction (40%)
 
 **Highlights:**
 - Reduced runtime by ~100x through code optimization and numerical method refinement
@@ -49,7 +62,11 @@ Optimized large-scale MATLAB numerical models for wave propagation and barrier e
 ---
 
 ### Automatic Cough Recognition Using ML (Lycee Janson de Sailly) — Time Series & Machine Learning
+
 Built an end-to-end Python machine learning pipeline for audio signal classification using time-frequency feature extraction.
+
+**Skills:** Python • Signal Processing • Machine Learning • Feature Engineering  
+**Impact:** 91% validation accuracy on real-world noisy data
 
 **Highlights:**
 - Implemented preprocessing, mel-spectrogram feature extraction, and classification pipeline
@@ -59,10 +76,28 @@ Built an end-to-end Python machine learning pipeline for audio signal classifica
 ---
 
 ### Numerical Methods for PDEs (Columbia) — Advanced Computational Mathematics
+
 Advanced coursework and projects in numerical methods for solving partial differential equations—studying convergence, stability, and implementation of modern computational techniques.
+
+**Skills:** Numerical Analysis • PDE Theory • Computational Methods • Mathematical Modeling
+
+**Highlights:**
+- Convergence analysis and stability testing of discretization schemes
+- Implementation of modern numerical methods for diverse PDE classes
+- Theoretical and practical investigation of stability-accuracy tradeoffs
 
 **Academic Paper:**
 <embed src="/assets/ENME_6220_project.pdf" type="application/pdf" width="100%" height="500px" />
+
+---
+
+## Interactive Projects
+
+### [Game of Life]({{ '/game-of-life/' | relative_url }})
+
+An interactive implementation of Conway's Game of Life—demonstrating how complex emergent behavior arises from simple rules. A fun analogy to computational modeling: starting with basic equations, watching sophisticated dynamics unfold.
+
+**Skills:** Web Development • JavaScript • Algorithm Design • Cellular Automata
 
 ---
 

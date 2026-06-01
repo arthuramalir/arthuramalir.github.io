@@ -56,8 +56,17 @@ nav:
   - title: Blog
     url: /archive/
 
-  - title: About
-    url: /about/
-
   - title: Projects
     url: /projects/
+
+  - title: Resources
+    url: /resources/
+
+  - title: Tools & Tech
+    url: /tools/
+
+  - title: Game of Life
+    url: /game-of-life/
+
+  - title: About
+    url: /about/
