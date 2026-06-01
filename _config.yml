@@ -20,7 +20,7 @@
 
 title:  ARTHUR AMALIR
 email: ama2409@columbia.edu
-description: "MS student in computational and data-driven engineering. Seeking DS, quant, and scientific computing roles."
+description: "MS student in computational engineering. Specialized in numerical methods, stochastic modeling, and scientific computing. Seeking roles in applied mathematics, data science, and computational research."
 url: "https://arthuramalir.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: ""
 #twitter_username: jekyllrb
@@ -54,7 +54,7 @@ plugins:
 
 nav:
   - title: Blog
-    url: /archive
+    url: /archive/
 
   - title: About
     url: /about/
