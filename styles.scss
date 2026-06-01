@@ -1,6 +1,14 @@
 ---
 ---
 
+// Monochromatic color scheme
+:root {
+  --color-primary: #59ACFF;       // Links and CTAs
+  --color-secondary: #79B5F2;     // Section markers and comments
+  --color-tertiary: #96BEE6;      // Highlights and emphasis
+  --color-accent: #AEC3D9;        // Borders and dividers
+}
+
 @import "variables";
 @import "base";
 @import "layout";
@@ -36,4 +44,34 @@ h2 {
 
 h3 {
   font-size: 1.5rem; /* Optional: Make headers pop more if needed */
+}
+
+// Monochromatic color utility classes
+.color-primary {
+  color: var(--color-primary, #59ACFF);
+}
+
+.color-secondary {
+  color: var(--color-secondary, #79B5F2);
+}
+
+.color-tertiary {
+  color: var(--color-tertiary, #96BEE6);
+}
+
+.color-accent {
+  color: var(--color-accent, #AEC3D9);
+}
+
+.link-primary {
+  color: var(--color-primary, #59ACFF);
+  text-decoration: none;
+
+  &:hover {
+    opacity: 0.8;
+  }
+}
+
+.border-accent {
+  border-color: var(--color-accent, #AEC3D9);
 }
