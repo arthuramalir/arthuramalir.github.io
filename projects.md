@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Projects
+permalink: /projects/
 ---
 
 This page summarizes selected quantitative and scientific-computing projects. Code repositories and technical details are available on GitHub: [github.com/arthuramalir](https://github.com/arthuramalir)
