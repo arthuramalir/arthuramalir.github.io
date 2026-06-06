@@ -2,12 +2,6 @@
 ---
 
 // Monochromatic color scheme
-:root {
-  --color-primary: #59ACFF;       // Links and CTAs
-  --color-secondary: #79B5F2;     // Section markers and comments
-  --color-tertiary: #96BEE6;      // Highlights and emphasis
-  --color-accent: #AEC3D9;        // Borders and dividers
-}
 
 @import "variables";
 @import "base";
@@ -32,6 +26,7 @@ html {
 
 body, p {
   font-size: 1rem; /* Adjusts paragraph body text size */
+  color: var(--color-text, #e0e0e0);
 }
 
 h1 {
@@ -47,24 +42,32 @@ h3 {
 }
 
 // Monochromatic color utility classes
+:root {
+  --color-primary: #26df51; /* accent green used in headings */
+  --color-link: #59ACFF; /* primary link blue */
+  --color-text: #e0e0e0; /* main body text */
+  --color-muted: #757575; /* captions and secondary text */
+  --color-accent: #8ef1a6; /* softer green for highlights */
+}
+
 .color-primary {
-  color: var(--color-primary, #59ACFF);
+  color: var(--color-primary, #26df51);
 }
 
 .color-secondary {
-  color: var(--color-secondary, #79B5F2);
+  color: var(--color-accent, #8ef1a6);
 }
 
 .color-tertiary {
-  color: var(--color-tertiary, #96BEE6);
+  color: var(--color-muted, #757575);
 }
 
 .color-accent {
-  color: var(--color-accent, #AEC3D9);
+  color: var(--color-accent, #8ef1a6);
 }
 
 .link-primary {
-  color: var(--color-primary, #59ACFF);
+  color: var(--color-link, #59ACFF);
   text-decoration: none;
 
   &:hover {
@@ -73,14 +76,14 @@ h3 {
 }
 
 .border-accent {
-  border-color: var(--color-accent, #AEC3D9);
+  border-color: var(--color-accent, #8ef1a6);
 }
 
 // Project card enhancements
 .project-section {
   margin-bottom: 2.5rem;
   padding-bottom: 2rem;
-  border-bottom: 1px solid var(--color-accent, #AEC3D9);
+  border-bottom: 1px solid var(--color-accent, #8ef1a6);
 }
 
 .project-section:last-child {
@@ -105,12 +108,12 @@ h3 {
 }
 
 .project-meta strong {
-  color: var(--color-primary, #59ACFF);
+  color: var(--color-primary, #26df51);
   margin-right: 0.5rem;
 }
 
 .project-impact {
-  color: var(--color-tertiary, #96BEE6);
+  color: var(--color-secondary, #8ef1a6);
   font-size: 0.95rem;
   margin: 0.75rem 0;
   font-style: italic;
@@ -130,3 +133,5 @@ h3 {
 .container {
   max-width: 1200px !important;
 }
+
+

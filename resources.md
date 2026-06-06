@@ -1,42 +1,20 @@
 ---
 layout: page
-title: Resources
+title: Resources & Tools
 permalink: /resources/
+order: 99
 ---
 
-A curated collection of websites, projects, and tools that I find valuable for learning, research, and development in computational science and mathematics.
+This is a curated list of external links, libraries, and resources I recommend.
 
----
+- Project Gutenberg — https://www.gutenberg.org/
+- ParaView — https://www.paraview.org/
+- FreeFEM++ — https://freefem.org/
+- NumPy / SciPy — https://numpy.org/  https://scipy.org/
+- Matplotlib — https://matplotlib.org/
+- Plotly — https://plotly.com/
+- Stack Exchange — https://stackexchange.com/
+- arXiv — https://arxiv.org/
 
-## 📚 Learning & Research Communities
+If you have suggestions, email: [ama2409@columbia.edu](mailto:ama2409@columbia.edu)
 
-### Project Gutenberg
-An extensive digital library offering over 70,000 free ebooks, including classic works in mathematics, physics, and philosophy. Invaluable for foundational texts in computational science and mathematical theory.
-
-[Visit Project Gutenberg](https://www.gutenberg.org/)
-
----
-
-## 🔬 Computational Tools & Platforms
-
-### ISLMP (International Society for Lightweight Materials and Processes)
-Resources and community for computational approaches to materials science, optimization, and lightweight design.
-
-[Learn more about ISLMP](https://islmp.org/)
-
----
-
-### ArcGIS Obsidian Map
-An innovative integration for geographic analysis and spatial visualization. Combines GIS capabilities with knowledge management for mapping complex datasets and relationships in environmental modeling and spatial analysis.
-
-[Explore ArcGIS Obsidian integration](https://obsidian.md/)
-
----
-
-## 💡 Coming Soon
-
-Additional resources will be added as I discover new tools, papers, and communities relevant to computational modeling, uncertainty quantification, and scientific computing.
-
----
-
-*Have a resource recommendation? Feel free to reach out via [email](mailto:ama2409@columbia.edu)*

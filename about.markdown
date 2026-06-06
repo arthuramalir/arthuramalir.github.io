@@ -44,6 +44,14 @@ I am a dual-degree engineering student with a strong quantitative background in 
 - **Software:** Python (NumPy, SciPy, Pandas, Scikit-learn), C++, FreeFEM++, MATLAB, SQL, AutoCAD, Revit, ArcGIS, Microsoft Office
 - **Languages:** English (native), French (native), German (B2)
 
+## Tools & Frameworks
+
+- **Programming & Analysis:** Python (NumPy, SciPy, Pandas, Scikit-learn), C++, MATLAB
+- **PDE / FEM:** FreeFEM++, FreeFEM
+- **Visualization:** ParaView, Matplotlib, Plotly
+- **Versioning & Docs:** Git, Markdown, LaTeX
+- **Other:** SQL, ArcGIS, AutoCAD, Revit
+
 ## Activities and Interests
 - **Vice-President, POLMUN ESTP (Cachan, FR), Sep 2024 - Jun 2025**  
 	Organized and chaired Model UN conferences and developed partnerships with external universities and institutions in Paris.
